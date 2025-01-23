@@ -20,9 +20,9 @@ This is a **React-based Recipe CRUD Application** built to manage and organize r
 
 ## 💻 **Technologies Used**
 
-- **Frontend:** React.js  
+- **Frontend:** React.js, HTML5
 - **State Management:** React `useState()` Hook  
-- **Styling:** CSS  
+- **Styling:** CSS, Bootstrap
 - **Testing:** Qualified.io Testing Suite  
 
 ---
