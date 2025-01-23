@@ -1,6 +1,6 @@
 # Recipe CRUD App
 
-This is a **React-based Recipe CRUD Application** built to manage and organize recipes. The app allows users to **create**, **read**, **update**, and **delete** recipes using React's **useState()** for state management. The project interface is designed with a clean and intuitive layout, and data is displayed in a table for ease of access.
+This is a **React-based Recipe CRUD Application** built to manage and organize recipes. The app allows users to **create**, **read**, and **delete** recipes using React's **useState()** for state management. The project interface is designed with a clean and intuitive layout, and data is displayed in a table for ease of access.
 
 [**Deployed Recipe App**](https://recipe-app-livid-xi.vercel.app/)
 
